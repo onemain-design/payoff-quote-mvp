@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "projectId": "design-913-payoff-amount",
-  "buildId": "2026-11-13T19-26-12Z-7bc92e4",
-  "commitSha": "7bc92e4f6fe3fc08aeb1ad18aaa345b8ff93aad5",
-  "builtAt": "2026-11-13T19:26:12.712Z",
+  "buildId": "2026-11-13T19-47-10Z-87a5ebd",
+  "commitSha": "87a5ebd02f98294e16a5005d0a2a5a457ac6e50c",
+  "builtAt": "2026-11-13T19:47:10.863Z",
   "artifactUrl": "/payoff-quote-mvp/"
 }
