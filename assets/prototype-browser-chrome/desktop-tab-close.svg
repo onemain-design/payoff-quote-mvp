@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="58" height="42" viewBox="0 0 58 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon Close">
+<rect id="Fade" width="58" height="42" fill="url(#paint0_linear_0_49)"/>
+<path id="Icon" fill-rule="evenodd" clip-rule="evenodd" d="M41.4633 16.2103C41.1922 15.9392 40.7542 15.9392 40.483 16.2103L37.0833 19.6031L33.6836 16.2034C33.4125 15.9322 32.9745 15.9322 32.7034 16.2034C32.4322 16.4745 32.4322 16.9125 32.7034 17.1836L36.1031 20.5833L32.7034 23.983C32.4322 24.2542 32.4322 24.6922 32.7034 24.9633C32.9745 25.2345 33.4125 25.2345 33.6836 24.9633L37.0833 21.5636L40.483 24.9633C40.7542 25.2345 41.1922 25.2345 41.4633 24.9633C41.7345 24.6922 41.7345 24.2542 41.4633 23.983L38.0636 20.5833L41.4633 17.1836C41.7275 16.9194 41.7275 16.4745 41.4633 16.2103Z" fill="#1F1F1F"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_49" x1="34.0192" y1="21" x2="0.000282302" y2="20.9021" gradientUnits="userSpaceOnUse">
+<stop offset="0.452265" stop-color="#D3E3FD"/>
+<stop offset="1" stop-color="#D3E3FD" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
